@@ -1,6 +1,6 @@
 module github.com/gglachant/enumer
 
-go 1.12
+go 1.16
 
 require (
 	github.com/pascaldekloe/name v1.0.1
